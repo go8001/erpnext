@@ -2,17 +2,17 @@ from __future__ import unicode_literals
 from frappe import _
 
 app_name = "erpnext"
-app_title = "ERPNext"
-app_publisher = "Frappe Technologies Pvt. Ltd."
-app_description = """ERP made simple"""
+app_title = "Core"
+app_publisher = "infocito"
+app_description = """infocito"""
 app_icon = "icon-th"
 app_color = "#e74c3c"
 app_version = "6.18.4"
-app_email = "info@erpnext.com"
-app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/frappe/erpnext"
+app_email = "service@infocito.com"
+app_license = ""
+source_link = ""
 
-error_report_email = "support@erpnext.com"
+error_report_email = "service@infocito.com"
 
 app_include_js = "assets/js/erpnext.min.js"
 app_include_css = "assets/css/erpnext.css"

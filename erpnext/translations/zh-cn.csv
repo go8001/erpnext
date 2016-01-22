@@ -2462,7 +2462,7 @@ DocType: Purchase Invoice,Terms,条款
 apps/erpnext/erpnext/accounts/page/accounts_browser/accounts_browser.js +251,Create New,创建新的
 DocType: Buying Settings,Purchase Order Required,购货订单要求
 ,Item-wise Sales History,品目特定的销售历史
-DocType: Expense Claim,Total Sanctioned Amount,总被制裁金额
+DocType: Expense Claim,Total Sanctioned Amount,总批准金额
 ,Purchase Analytics,购买Analytics（分析）
 DocType: Sales Invoice Item,Delivery Note Item,送货单品目
 DocType: Expense Claim,Task,任务

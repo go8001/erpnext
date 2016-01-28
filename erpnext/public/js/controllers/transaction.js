@@ -811,7 +811,6 @@ erpnext.TransactionController = erpnext.taxes_and_totals.extend({
 				cstr(this.frm.doc.contact_email)], function(v) { return v || null; }).join(", ");
 			this.frm.doc.repeat_on_day_of_month = frappe.datetime.str_to_obj(this.frm.doc.posting_date).getDate();
 		}
-
 		refresh_many(["notification_email_address", "repeat_on_day_of_month"]);
 	},
 

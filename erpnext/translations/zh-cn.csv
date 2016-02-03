@@ -2833,7 +2833,7 @@ apps/erpnext/erpnext/accounts/report/purchase_register/purchase_register.py +65,
 apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py +202,Quantity should be greater than 0,量应大于0
 DocType: Journal Entry,Cash Entry,现金分录
 DocType: Sales Partner,Contact Desc,联系人倒序
-apps/erpnext/erpnext/config/hr.py +135,"Type of leaves like casual, sick etc.",叶似漫不经心，生病等类型
+apps/erpnext/erpnext/config/hr.py +135,"Type of leaves like casual, sick etc.",像事假、病假等类型
 DocType: Email Digest,Send regular summary reports via Email.,通过电子邮件发送定期汇总报告。
 DocType: Brand,Item Manager,项目经理
 DocType: Cost Center,Add rows to set annual budgets on Accounts.,添加新行为科目设定年度预算。
